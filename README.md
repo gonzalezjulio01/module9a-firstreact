@@ -13,4 +13,6 @@ This is a React app created using Vite that renders a UserProfile component. The
 At first, I had to understand how React components are structured, especially how JSX works. I solved this by reviewing the example code and experimenting with small changes to the component.
 
 ## Screenshot
+![UserProfile Screenshot](https://github.com/gonzalezjulio01/module9a-firstreact/blob/main/A9A.png)
+
 
